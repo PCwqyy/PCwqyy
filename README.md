@@ -2,15 +2,17 @@
 The one who named PCwqyy.  
 I'm just happy~
 
-# Screeps team
+# Main repository
+[PClib](https://github.com/PCwqyy/PCLib)
+
 [MHP-creep](https://github.com/MHP-creep)
 
-[$\sf\huge\color{5EB95E}PCwqyy \color{000000}'s\ Luogu\ \color{0085FF}Blog$](https://www.luogu.com.cn/blog/PCwqyy/)
+[PCwqyy's Luogu Blog](https://www.luogu.com.cn/blog/PCwqyy/)
 
-
+[PCwqyy's Cnblogs](https://www.cnblogs.com/PCwqyy/)
  
 ---
 
-$\large\color{DDDDDD}\sf When you see this$\
- $\color{D8D8D8}\sf Then you see this$
+$\large\color{#DDDDDD}\textsf{When you see this}$  
+$\color{#D8D8D8}\textsf{Then you see this}$
  
